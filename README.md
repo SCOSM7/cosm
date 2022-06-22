@@ -7,8 +7,8 @@
 [![Author](https://img.shields.io/badge/author-GabrielLuiz-191F2B?style=flat-square)](https://github.com/GabrielLuizSF)
   
   
-  # Download Version 7.0 LTS
-  <a href="https://github.com/SCOSM7/cosm/releases/download/windows/cosm.rar"  target="_blank" rel="noopener noreferer" >Download Windows</a>
+  # Download Version 7.2 LTS
+  <a href="https://github.com/SCOSM7/cosm/releases/download/windowsv7.2/cosm.rar"  target="_blank" rel="noopener noreferer" >Download Windows</a>
   
 # Version 7.0 Codes 🤓
 # exit 
