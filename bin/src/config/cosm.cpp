@@ -274,7 +274,7 @@ int main(){
         system("start https://github.com/SCOSM7/cosm");
              system("cls");
 					printf("===============================================================================\n");
-				printf("Como Atualizar para a Nova Versao ?\n\n\n Esse site que abriu agora e onde e guardado o codigo fonte do Cosm\n\n Para voce baixar a nova versao basta procurar no README a versao LTS\n\n\n  Ao clicar no nome Download Windows vai baixar um arquivo zip\n\n\nSe tiver a versao 4.0 so precisa substituir os arquivos da pasta binaries pelos da versao LTS\n\n\nQue estao dentro de Cosm>>>binaries \n\n\n");
+				printf("Como Atualizar para a Nova Versao ?\n\n\n Esse site que abriu agora e onde e guardado o codigo fonte do Cosm\n\n Para voce baixar a nova versao basta procurar no README a versao LTS\n\n\n  Ao clicar no nome Download Windows vai baixar um arquivo zip\n\n\nSe tiver a versao 7.2 precisa substituir os arquivos da pasta bin pelos da versao LTS\n\n\nQue estao dentro de cosm>>>bin \n\n\n");
 					printf("===============================================================================\n");
 		}
 		
