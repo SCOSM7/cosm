@@ -27,7 +27,7 @@ int main(){
 		 printf(" =>");
            gets(userinput);
            
-           //Close Easy Access
+           //Close Cosm
 		if(strcmp(userinput,"exit")==0){
          system("cls");
          printf("[cosm] ._.)=>Ok Bye (;-;) (press enter from close window)\n");
@@ -231,7 +231,7 @@ int main(){
 		  printf("[cosm] ._.)==>Welcome Back\n");
 		}
 		
-		// EasyAccess Calc Command
+		// Cosm Calc Command
 		else if(strcmp(userinput,"calc")==0){
 			system("cls");
       	  printf("\tCalculadora\n\n");
@@ -264,17 +264,17 @@ int main(){
 		}
 		
 		
-		// EasyAccess Clear Command
+		// Cosm Clear Command
     else if(strcmp(userinput,"clear")==0){
          system("cls"); 
 		}
 	
 		//COSMUpdate Command
 		else if(strcmp(userinput,"update")==0){
-        system("start https://github.com/GabrielLuizSF/easy-access-C");
+        system("start https://github.com/SCOSM7/cosm");
              system("cls");
 					printf("===============================================================================\n");
-				printf("Como Atualizar para a Nova Versao ?\n\n\n Esse site que abriu agora e onde e guardado o codigo fonte do Easy Access\n\n Para voce baixar a nova versao basta procurar no README a versao LTS\n\n\n  Ao clicar no nome Download Windows vai baixar um arquivo zip\n\n\nSe tiver a versao 4.0 so precisa substituir os arquivos da pasta binaries pelos da versao LTS\n\n\nQue estao dentro de EasyAccess>>>binaries \n\n\n");
+				printf("Como Atualizar para a Nova Versao ?\n\n\n Esse site que abriu agora e onde e guardado o codigo fonte do Cosm\n\n Para voce baixar a nova versao basta procurar no README a versao LTS\n\n\n  Ao clicar no nome Download Windows vai baixar um arquivo zip\n\n\nSe tiver a versao 4.0 so precisa substituir os arquivos da pasta binaries pelos da versao LTS\n\n\nQue estao dentro de Cosm>>>binaries \n\n\n");
 					printf("===============================================================================\n");
 		}
 		
@@ -291,7 +291,7 @@ int main(){
 				 printf("# google :\n\n=>Abre o Google Search\n\n\n# github :\n\n =>Abre o github mas para funcionar devido a extrema seguranca do github voce precisa dar reload na pagina.\n\n\n# youtube :\n\n=>Abre o youtube\n\n\n");
                  printf("# whatsapp :\n\n=> Abre o whatsapp\n\n\n# netflix :\n\n=> Abre a netflix\n\n\n# stackoverflow :\n\n=> salva voce tirando suas duvidas de programacao & abre o stackoverflow\n\n\n");
                  //COSMchat
-                 printf("# exit :\n\n=>Fecha o EasyAccess\n\n\n# hi :\n\n=>diz oi ao EasyAccess\n\n\n# clear :\n\n=>limpa os codigos anteriores'funciona igual o cls do cmd'\n\n# version :\n\n=>mostra a versao do Easy Access\n\n# calc :\n\n=>abre a calculadora do easy access\n\n\n");
+                 printf("# exit :\n\n=>Fecha o Cosm\n\n\n# hi :\n\n=>diz oi ao Cosm\n\n\n# clear :\n\n=>limpa os codigos anteriores'funciona igual o cls do cmd'\n\n# version :\n\n=>mostra a versao do Cosm\n\n# calc :\n\n=>abre a calculadora do Cosm\n\n\n");
                  //S.O codes
                  printf("# time :\n\n => diz a hora\n\n\n# ip :\n\n=> revela todo o seu ip 'funciona igual o ipconfig /all do cmd so que neste terminal so precisa digitar ip'\n\n\n# poweroff :\n\n=> Desliga seu PC\n\n\n# Suspend :\n\n=>suspende o seu PC\n\n\n# Drivers :\n\n=>Mostra todos os Drivers\n\n\n# update :\n\n\n Leva ao repositorio no github para baixar a nova versao\n\n");
 				printf("===============================================================================\n\n\n");
