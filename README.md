@@ -8,7 +8,7 @@
   
   
   # Download Version 7.2 LTS
-  <a href="https://github.com/SCOSM7/cosm/releases/download/windowsv7.2/cosm.rar"  target="_blank" rel="noopener noreferer" >Download Windows</a>
+  <a href="https://github.com/SCOSM7/cosm/releases/download/windowsV7.2/cosm.rar"  target="_blank" rel="noopener noreferer" >Download Windows</a>
   
 # Version 7.0 Codes 🤓
 # exit 
