@@ -9,7 +9,7 @@
  
  
 
-[![Author](https://img.shields.io/badge/author-GabrielLuiz-191F2B?style=flat-square)](https://github.com/GabrielLuizSF)
+[![Author](https://img.shields.io/badge/author-GabrielLuiz-191F2B?style=flat-square)](https://github.com/GabrielLuizSF/easy-access-c)
   
   
   # Download Version 7.4 LTS
