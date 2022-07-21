@@ -52,7 +52,7 @@ int main(){
        
 		}
       
-		//styles command
+		//styles commands
 			else if(strcmp(userinput,"styles")==0){
 				     system("cls");
 				printf(ANSI_COLOR_BLUE"===============================================================================\n");
