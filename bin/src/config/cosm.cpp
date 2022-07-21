@@ -140,12 +140,7 @@ int main(){
          printf("[cosm] ._.)=>Google Open\n");
          
 		}
-		//doctor who serie
-			else if(strcmp(userinput,"DW")==0){
-			system("start https://drive.google.com/drive/folders/1cHTAKedH6Hos2vTFHDwYUqQ9l7r-6Om9");
-			system("cls");
-			printf("[cosm]._.)=>DW Drive Open");
-		}	
+		
 	
 		
 		else if(strcmp(userinput,"github")==0){
@@ -269,7 +264,7 @@ int main(){
          system("cls"); 
 		}
 	
-		//COSMUpdate Command
+		//COSM Update Command
 		else if(strcmp(userinput,"update")==0){
         system("start https://github.com/SCOSM7/cosm");
              system("cls");
@@ -278,7 +273,7 @@ int main(){
 					printf("===============================================================================\n");
 		}
 		
-		//COSM Manual Command
+		//COSM Manual Commands
 		else if(strcmp(userinput,"manual")==0){
 			     system("cls");
 				printf("===============================================================================\n");
