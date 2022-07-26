@@ -6,8 +6,8 @@
 #include <stdlib.h>
 
 #define ISIZE   100      // arbitrarily large
-#include "../library/versionLib.h"  // "" == local lib 
-#include "../library/styleLib.h"  // "" == local lib 
+#include "../lib/versionLib.h"  // "" == local lib 
+#include "../lib/styleLib.h"  // "" == local lib 
 
 using namespace stylelib;
 using namespace versionlib;
@@ -249,11 +249,17 @@ int main(){
         case '+': printf("%1.f\n", num1+num2); break;
         case '-': printf("%1.f\n", num1-num2); break;
         case '*': printf("%1.f\n", num1*num2); break;
-        case '/': if (num2!=0) printf("%1.f\n", num1/num2);
-                  else printf ("Divisão por zero!\n");
-                  break;
-        default:  printf("Eu nao sei o que operador\n");
-    }
+        case '/': 
+          if (num2!=0){
+		  printf("%1.f\n", num1/num2);
+	  }
+                  else{
+			  printf ("[error] Divisão por zero!\n");
+                              break;
+		  }
+            default: 
+		    printf("Eu nao sei o  operador\n");
+                  }
        
          
 		}
